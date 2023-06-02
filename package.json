@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "nodemon --experimental-json-modules"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
